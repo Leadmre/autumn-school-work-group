@@ -1,0 +1,14 @@
+# in your terminal, run conda: conda env create -f bw25_env_win64.yaml
+
+name: odym_group_work
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - brightway2
+  - jupyterlab
+  - matplotlib
+  - seaborn
+  - pip:
+      - git+https://github.com/romainsacchi/ODYM.git
