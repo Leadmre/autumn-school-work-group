@@ -6,3 +6,10 @@ work flow:
 3- MFA to transport the stocks by 2050 into inflow and outflow ------> delivery: socks turn into inflows and outflows
 4- use LCA again to link the inflows and outflows and estimate the environmental impacts in GWP, IPCC method
 5- produce graphics and discussion.
+
+
+market for steel, unalloyed' (kilogram, GLO, None),
+ 'market for steel, low-alloyed' (kilogram, GLO, None),
+ 'market for steel, chromium steel 18/8, hot rolled' (kilogram, GLO, None),
+ 'market for steel, chromium steel 18/8' (kilogram, GLO, None),
+ 'market for steel, low-alloyed, hot rolled' (kilogram, GLO, None)
