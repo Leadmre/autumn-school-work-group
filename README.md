@@ -4,5 +4,5 @@ work flow:
 2- Use premise to estimate the amount of cars needed to deliver the function unit (pkm/yr) for passenger car electric 
 ----> delivery: number of cars need to provide the function unit
 3- MFA to transport the stocks by 2050 into inflow and outflow ------> delivery: socks turn into inflows and outflows
-4- use LCA again to link the inflows and outflows and estmate the environmental impacts in GWP, IPCC method
+4- use LCA again to link the inflows and outflows and estimate the environmental impacts in GWP, IPCC method
 5- produce graphics and discussion.
